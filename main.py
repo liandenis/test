@@ -3,3 +3,4 @@ n=1000
 while n>0:
     n-=7
     print(n)
+print("DENIS")
