@@ -4,3 +4,4 @@ while n>0:
     n-=7
     print(n)
 print("DENIS")
+print("Zdes byl ya")
